@@ -1,10 +1,10 @@
 ### Site Settings ###
-title               : Device Berbasis ARM Indonesia
+title               : RTA SERVER
 description         : >-
-                      Device Berbasis ARM Indonesia
+                      MyBlog
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : armarchindo/dbai      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : armarchindo/BlogTemplate
+repository          : rtaserver/rtaserver.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : rtaserver/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 ### Plugins ###
@@ -21,15 +21,15 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Device Berbasis ARM Indonesia
-  image             : https://avatars.githubusercontent.com/u/7347993
+  name              : RTA SERVER
+  image             : https://avatars.githubusercontent.com/u/142883865
 # behance           : your_username
 # dribbble          : your_username
 # email             : email
-  facebook          : armarchindo
-  github            : armarchindo
+# facebook          : your_username
+  github            : rtaserver
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : rizki_kotet
 # kaggle            : your_username
 # linkedin          : your_username
 # medium            : your_username
@@ -42,7 +42,7 @@ author:
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
-  discord           : vtV5QSq6D6
+# discord           : vtV5QSq6D6
 
 
 ### Posts ###
@@ -58,7 +58,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: dbai                     # Your website Shortname on disqus
+  shortname: rtaserver                     # Your website Shortname on disqus
 
 
 ### Analytics ###
